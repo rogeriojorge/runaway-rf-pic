@@ -97,7 +97,7 @@ If you use this repository, please cite JAX-in-Cell, the note, and the repositor
 ```bibtex
 @article{ma2025jaxincell,
   title   = {JAX-in-Cell: a differentiable particle-in-cell code for plasma physics applications},
-  author  = {Ma and Jorge and Lu and Tran and Woolford},
+  author = {Ma, Longyu and Jorge, Rogerio and Lu, Hongke and Tran, Aaron and Woolford, Christopher},
   journal = {arXiv:2512.12160},
   year    = {2025}
 }
