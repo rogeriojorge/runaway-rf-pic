@@ -11,7 +11,7 @@ license = { text = "MIT" }
 authors = [{ name = "Rogerio Jorge" }]
 requires-python = ">=3.10"
 dependencies = [
-    "jaxincell @ git+https://github.com/uwplasma/JAX-in-Cell@abc8d0161f7cffc5a59949d6e13d9d7f697dc648",
+    "jaxincell @ git+https://github.com/uwplasma/JAX-in-Cell@7fee7c4a2372a841db3c84a0b21b0c439658031b",
     "scipy",
     "matplotlib",
 ]
