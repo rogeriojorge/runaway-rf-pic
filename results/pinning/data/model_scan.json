@@ -1,0 +1,346 @@
+[
+ {
+  "closure": "cap",
+  "Gth": 40000.0,
+  "nres": 100000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 5.328896403364512,
+  "bthr_ratio_at_100kW": 1.6851394181800698
+ },
+ {
+  "closure": "cap",
+  "Gth": 40000.0,
+  "nres": 1000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 5.328878734105447,
+  "bthr_ratio_at_100kW": 1.6850835485402327
+ },
+ {
+  "closure": "cap",
+  "Gth": 40000.0,
+  "nres": 10000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 5.328702038266008,
+  "bthr_ratio_at_100kW": 1.6845247501894383
+ },
+ {
+  "closure": "cap",
+  "Gth": 40000.0,
+  "nres": 100000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 5.326934755351315,
+  "bthr_ratio_at_100kW": 1.6789265313943735
+ },
+ {
+  "closure": "cap",
+  "Gth": 40000.0,
+  "nres": 1000000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 5.309229561835771,
+  "bthr_ratio_at_100kW": 1.621882530154733
+ },
+ {
+  "closure": "cap",
+  "Gth": 40000.0,
+  "nres": 1e+16,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 5.128817362439241,
+  "bthr_ratio_at_100kW": 0.8662569049929566
+ },
+ {
+  "closure": "QL",
+  "Gth": 40000.0,
+  "nres": 100000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 5.18302366764685,
+  "bthr_ratio_at_100kW": 1.6390159956323618
+ },
+ {
+  "closure": "QL",
+  "Gth": 40000.0,
+  "nres": 1000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 4.251819850739816,
+  "bthr_ratio_at_100kW": 1.3495923301980925
+ },
+ {
+  "closure": "QL",
+  "Gth": 40000.0,
+  "nres": 10000000000000.0,
+  "plateau": [
+   33496.54391578279,
+   34807.00588428413,
+   0.7329333534573831,
+   0.1467334968788787
+  ],
+  "multi": 1,
+  "bthr_ratio_at_1MW": 2.0574813578582387,
+  "bthr_ratio_at_100kW": 0.910463155153913
+ },
+ {
+  "closure": "QL",
+  "Gth": 40000.0,
+  "nres": 100000000000000.0,
+  "plateau": [
+   103912.2303835169,
+   1000000.0,
+   0.824186859234107,
+   0.08631451208045338
+  ],
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.9505915120315855,
+  "bthr_ratio_at_100kW": 0.6983316053501195
+ },
+ {
+  "closure": "QL",
+  "Gth": 40000.0,
+  "nres": 1000000000000000.0,
+  "plateau": [
+   874312.4580220731,
+   1000000.0,
+   0.7040867662690616,
+   0.08101396906125874
+  ],
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.7079308489873002,
+  "bthr_ratio_at_100kW": 0.5793148032795308
+ },
+ {
+  "closure": "QL",
+  "Gth": 40000.0,
+  "nres": 1e+16,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.5850422886094238,
+  "bthr_ratio_at_100kW": 0.41856632578859226
+ },
+ {
+  "closure": "cap",
+  "Gth": 270000.0,
+  "nres": 100000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 2.051093182031908,
+  "bthr_ratio_at_100kW": 0.6486105156532743
+ },
+ {
+  "closure": "cap",
+  "Gth": 270000.0,
+  "nres": 1000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 2.0510863816214586,
+  "bthr_ratio_at_100kW": 0.6485894722594701
+ },
+ {
+  "closure": "cap",
+  "Gth": 270000.0,
+  "nres": 10000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 2.051018376279598,
+  "bthr_ratio_at_100kW": 0.6483790203658062
+ },
+ {
+  "closure": "cap",
+  "Gth": 270000.0,
+  "nres": 100000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 2.0503381992625225,
+  "bthr_ratio_at_100kW": 0.6462727446801205
+ },
+ {
+  "closure": "cap",
+  "Gth": 270000.0,
+  "nres": 1000000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 2.043523983711475,
+  "bthr_ratio_at_100kW": 0.6250822300348452
+ },
+ {
+  "closure": "cap",
+  "Gth": 270000.0,
+  "nres": 1e+16,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 1.9740890599350178,
+  "bthr_ratio_at_100kW": 0.46036925207705426
+ },
+ {
+  "closure": "QL",
+  "Gth": 270000.0,
+  "nres": 100000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 2.0424759938889787,
+  "bthr_ratio_at_100kW": 0.6485045348622832
+ },
+ {
+  "closure": "QL",
+  "Gth": 270000.0,
+  "nres": 1000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 1.9695078127914898,
+  "bthr_ratio_at_100kW": 0.6475480489791813
+ },
+ {
+  "closure": "QL",
+  "Gth": 270000.0,
+  "nres": 10000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 1.509769268609464,
+  "bthr_ratio_at_100kW": 0.6394109667479697
+ },
+ {
+  "closure": "QL",
+  "Gth": 270000.0,
+  "nres": 100000000000000.0,
+  "plateau": [
+   215443.46900318822,
+   287298.4833353663,
+   0.7214516847494794,
+   0.12731117251967916
+  ],
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.9254151161053826,
+  "bthr_ratio_at_100kW": 0.6021381360744653
+ },
+ {
+  "closure": "QL",
+  "Gth": 270000.0,
+  "nres": 1000000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.70191601403595,
+  "bthr_ratio_at_100kW": 0.5310900894908397
+ },
+ {
+  "closure": "QL",
+  "Gth": 270000.0,
+  "nres": 1e+16,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.5814280524681616,
+  "bthr_ratio_at_100kW": 0.3886173411750179
+ },
+ {
+  "closure": "cap",
+  "Gth": 1400000.0,
+  "nres": 100000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.9007478940302922,
+  "bthr_ratio_at_100kW": 0.28484147998320886
+ },
+ {
+  "closure": "cap",
+  "Gth": 1400000.0,
+  "nres": 1000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.9007449106934019,
+  "bthr_ratio_at_100kW": 0.28484040798696386
+ },
+ {
+  "closure": "cap",
+  "Gth": 1400000.0,
+  "nres": 10000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.9007150767936299,
+  "bthr_ratio_at_100kW": 0.28482969092216454
+ },
+ {
+  "closure": "cap",
+  "Gth": 1400000.0,
+  "nres": 100000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.9004166844590642,
+  "bthr_ratio_at_100kW": 0.2847228091532205
+ },
+ {
+  "closure": "cap",
+  "Gth": 1400000.0,
+  "nres": 1000000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.8974273864930652,
+  "bthr_ratio_at_100kW": 0.2836817515505713
+ },
+ {
+  "closure": "cap",
+  "Gth": 1400000.0,
+  "nres": 1e+16,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.8669786721939324,
+  "bthr_ratio_at_100kW": 0.2753174825822594
+ },
+ {
+  "closure": "QL",
+  "Gth": 1400000.0,
+  "nres": 100000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.9004536158234767,
+  "bthr_ratio_at_100kW": 0.284841464731213
+ },
+ {
+  "closure": "QL",
+  "Gth": 1400000.0,
+  "nres": 1000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.8978582268036653,
+  "bthr_ratio_at_100kW": 0.28484025548016445
+ },
+ {
+  "closure": "QL",
+  "Gth": 1400000.0,
+  "nres": 10000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.8761747214072706,
+  "bthr_ratio_at_100kW": 0.28482816716943915
+ },
+ {
+  "closure": "QL",
+  "Gth": 1400000.0,
+  "nres": 100000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.7825599348429949,
+  "bthr_ratio_at_100kW": 0.2847077024060585
+ },
+ {
+  "closure": "QL",
+  "Gth": 1400000.0,
+  "nres": 1000000000000000.0,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.6651861614483887,
+  "bthr_ratio_at_100kW": 0.2835426837311002
+ },
+ {
+  "closure": "QL",
+  "Gth": 1400000.0,
+  "nres": 1e+16,
+  "plateau": null,
+  "multi": 1,
+  "bthr_ratio_at_1MW": 0.5611248475359834,
+  "bthr_ratio_at_100kW": 0.27458598141213464
+ }
+]

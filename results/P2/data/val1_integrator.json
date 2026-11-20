@@ -1,0 +1,42 @@
+{
+ "a_dt8": {
+  "gamma_drift": 0.0,
+  "phase_err_rad": 3.6331411250336264e-13,
+  "steps": 4000,
+  "phase_per_step": 9.082852812584066e-17
+ },
+ "a_dt16": {
+  "gamma_drift": 0.0,
+  "phase_err_rad": 1.7418408010917698e-13,
+  "steps": 4000,
+  "phase_per_step": 4.3546020027294244e-17
+ },
+ "a_dt32": {
+  "gamma_drift": 1.1102230246251565e-16,
+  "phase_err_rad": 7.961906391208413e-14,
+  "steps": 4000,
+  "phase_per_step": 1.9904765978021032e-17
+ },
+ "b_invariant": {
+  "8": {
+   "max_dI": 0.0005336842661805008,
+   "gamma_excursion": 0.008967411009075832,
+   "t_end": 2576013.1020417763
+  },
+  "16": {
+   "max_dI": 0.00013448578550878665,
+   "gamma_excursion": 0.009565136458560275,
+   "t_end": 1288006.5510208881
+  },
+  "32": {
+   "max_dI": 3.395765431690734e-05,
+   "gamma_excursion": 0.009715544575895407,
+   "t_end": 644003.2755104441
+  }
+ },
+ "c_jic_vs_bw_dt_T/64": {
+  "max_rel_diff_u": 0.05215552642676664,
+  "steps": 3000,
+  "note": "JIC boris_relativistic uses t=qB dt/(2 gamma m) (no tan): gyro-phase error ~ (omega_c dt)^2/12 per step"
+ }
+}

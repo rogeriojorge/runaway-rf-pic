@@ -1,0 +1,15 @@
+b=4.19e-08 bphys=4.19e-11 R=0.0293  xi-metric ratio=0.922 +- 0.061 | theta^2 gain ratio=1.010 +- 88.291  kurt=2.10 frac_big=0.52
+b=1.40e-07 bphys=1.40e-10 R=0.0975  xi-metric ratio=0.899 +- 0.061 | theta^2 gain ratio=-1.120 +- 26.155  kurt=2.16 frac_big=0.50
+b=4.19e-07 bphys=4.19e-10 R=0.293  xi-metric ratio=0.867 +- 0.069 | theta^2 gain ratio=-0.794 +- 8.559  kurt=2.64 frac_big=0.43
+b=1.40e-06 bphys=1.40e-09 R=0.975  xi-metric ratio=0.976 +- 0.193 | theta^2 gain ratio=-3.282 +- 2.715  kurt=11.77 frac_big=0.32
+b=2.80e-06 bphys=2.80e-09 R=1.95  xi-metric ratio=0.501 +- 0.073 | theta^2 gain ratio=-5.100 +- 0.922  kurt=10.57 frac_big=0.18
+b=5.59e-06 bphys=5.59e-09 R=3.9  xi-metric ratio=0.252 +- 0.032 | theta^2 gain ratio=-3.719 +- 0.257  kurt=26.48 frac_big=0.02
+b=1.12e-05 bphys=1.12e-08 R=7.8  xi-metric ratio=0.249 +- 0.035 | theta^2 gain ratio=-1.417 +- 0.147  kurt=18.30 frac_big=0.05
+b=2.24e-05 bphys=2.24e-08 R=15.6  xi-metric ratio=0.159 +- 0.021 | theta^2 gain ratio=-0.504 +- 0.061  kurt=14.70 frac_big=0.00
+b=4.47e-05 bphys=4.47e-08 R=31.2  xi-metric ratio=0.116 +- 0.013 | theta^2 gain ratio=-0.124 +- 0.028  kurt=7.47 frac_big=0.00
+b=8.95e-05 bphys=8.95e-08 R=62.4  xi-metric ratio=0.073 +- 0.007 | theta^2 gain ratio=-0.011 +- 0.012  kurt=4.02 frac_big=0.00
+b=1.79e-04 bphys=1.79e-07 R=125  xi-metric ratio=0.058 +- 0.004 | theta^2 gain ratio=0.025 +- 0.005  kurt=1.50 frac_big=0.00
+b=3.58e-04 bphys=3.58e-07 R=250  xi-metric ratio=0.028 +- 0.002 | theta^2 gain ratio=0.014 +- 0.002  kurt=1.24 frac_big=0.00
+b=7.16e-04 bphys=7.16e-07 R=499  xi-metric ratio=0.014 +- 0.001 | theta^2 gain ratio=0.007 +- 0.000  kurt=1.99 frac_big=0.00
+b=1.43e-03 bphys=1.43e-06 R=998  xi-metric ratio=0.006 +- 0.000 | theta^2 gain ratio=0.003 +- 0.000  kurt=1.94 frac_big=0.00
+b=2.86e-03 bphys=2.86e-06 R=2e+03  xi-metric ratio=0.002 +- 0.000 | theta^2 gain ratio=0.001 +- 0.000  kurt=1.80 frac_big=0.00

@@ -1,0 +1,57 @@
+lam=100 Xs=10 theta0 in [0.19,0.21] NP=64  R~0.288
+  mean theta start 0.2000, at crossing 0.1998 (shift -0.0003); A_i/A_nom mean 0.9998
+  measured/QL(start-pitch, nominal A)      = 0.8195
+  measured/QL(local c,A at crossing)       = 0.8209
+  linear response (actual orbit)/QL(local) = 0.9449;  measured/linear response = 0.8688
+  QL(local)/QL(nominal) = 0.9983
+lam=100 Xs=10 theta0 in [0.1,0.3] NP=64  R~0.288
+  mean theta start 0.2003, at crossing 0.2000 (shift -0.0003); A_i/A_nom mean 0.9855
+  measured/QL(start-pitch, nominal A)      = 1.0048
+  measured/QL(local c,A at crossing)       = 0.9321
+  linear response (actual orbit)/QL(local) = 0.9967;  measured/linear response = 0.9352
+  QL(local)/QL(nominal) = 1.0781
+lam=100 Xs=20 theta0 in [0.1,0.3] NP=64  R~0.288
+  mean theta start 0.2003, at crossing 0.1998 (shift -0.0006); A_i/A_nom mean 0.9860
+  measured/QL(start-pitch, nominal A)      = 0.9092
+  measured/QL(local c,A at crossing)       = 0.8462
+  linear response (actual orbit)/QL(local) = 0.9951;  measured/linear response = 0.8504
+  QL(local)/QL(nominal) = 1.0743
+lam=100 Xs=40 theta0 in [0.1,0.3] NP=64  R~0.288
+  mean theta start 0.2003, at crossing 0.1992 (shift -0.0011); A_i/A_nom mean 0.9871
+  measured/QL(start-pitch, nominal A)      = 0.8081
+  measured/QL(local c,A at crossing)       = 0.7574
+  linear response (actual orbit)/QL(local) = 0.9977;  measured/linear response = 0.7592
+  QL(local)/QL(nominal) = 1.0670
+lam=300 Xs=10 theta0 in [0.1,0.3] NP=64  R~0.0962
+  mean theta start 0.2003, at crossing 0.1998 (shift -0.0005); A_i/A_nom mean 0.9859
+  measured/QL(start-pitch, nominal A)      = 0.9535
+  measured/QL(local c,A at crossing)       = 0.8867
+  linear response (actual orbit)/QL(local) = 0.9957;  measured/linear response = 0.8905
+  QL(local)/QL(nominal) = 1.0753
+lam=1000 Xs=10 theta0 in [0.1,0.3] NP=64  R~0.0288
+  mean theta start 0.2003, at crossing 0.1994 (shift -0.0009); A_i/A_nom mean 0.9866
+  measured/QL(start-pitch, nominal A)      = 0.8328
+  measured/QL(local c,A at crossing)       = 0.7783
+  linear response (actual orbit)/QL(local) = 0.9942;  measured/linear response = 0.7828
+  QL(local)/QL(nominal) = 1.0700
+drive terms: fric=0 rr=0 (E always on), lam=100 Xs=40
+lam=100 Xs=40 theta0 in [0.1,0.3] NP=64  R~0.222
+  mean theta start 0.2003, at crossing 0.1994 (shift -0.0009); A_i/A_nom mean 0.9984
+  measured/QL(start-pitch, nominal A)      = 0.9378
+  measured/QL(local c,A at crossing)       = 0.9386
+  linear response (actual orbit)/QL(local) = 0.9983;  measured/linear response = 0.9401
+  QL(local)/QL(nominal) = 0.9992
+drive terms: fric=1 rr=0 (E always on), lam=100 Xs=40
+lam=100 Xs=40 theta0 in [0.1,0.3] NP=64  R~0.251
+  mean theta start 0.2003, at crossing 0.1993 (shift -0.0010); A_i/A_nom mean 0.9986
+  measured/QL(start-pitch, nominal A)      = 1.0903
+  measured/QL(local c,A at crossing)       = 1.0926
+  linear response (actual orbit)/QL(local) = 1.0049;  measured/linear response = 1.0872
+  QL(local)/QL(nominal) = 0.9980
+drive terms: fric=0 rr=1 (E always on), lam=100 Xs=40
+lam=100 Xs=40 theta0 in [0.1,0.3] NP=64  R~0.25
+  mean theta start 0.2003, at crossing 0.1993 (shift -0.0010); A_i/A_nom mean 0.9883
+  measured/QL(start-pitch, nominal A)      = 0.8477
+  measured/QL(local c,A at crossing)       = 0.8010
+  linear response (actual orbit)/QL(local) = 1.0004;  measured/linear response = 0.8007
+  QL(local)/QL(nominal) = 1.0583

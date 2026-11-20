@@ -1,0 +1,52 @@
+{
+  "source_sha256": "dae411be867fb834f12fe7ab4c2ced0486f11eeb6dcab842b6eb89ae5555c2af",
+  "jax": "0.12.0.1",
+  "devices": "[CpuDevice(id=0)]",
+  "affinity": [
+    8
+  ],
+  "magnetic_exact": {
+    "gamma_errors_32_64_128": [
+      2.1617012890828846e-07,
+      5.40205391530435e-08,
+      1.3502400975085038e-08
+    ],
+    "last_error_ratio": 4.000809874682549,
+    "emission_relative_error": -1.128939142169827e-08,
+    "d_gamma_dB": -1.158341914873875,
+    "analytic_derivative": -1.1583419541266071
+  },
+  "electric_exact": {
+    "momentum_relative_error": 2.8431454444854813e-15,
+    "work_relative_error": 1.4654943925052066e-14,
+    "omitted_electric_emission_J": 7.476911609730486e-36,
+    "emission_relative_error": 2.220446049250313e-16
+  },
+  "independent_p_pitch_ode": {
+    "relative_errors_32_64_128": [
+      2.2636067784080854e-05,
+      5.62371921105548e-06,
+      1.4015430384227022e-06
+    ],
+    "last_error_ratio": 4.012519813436781,
+    "AD": -268.463330353532,
+    "finite_difference": -268.4633303626782,
+    "AD_FD_relative": -3.4068747822857404e-11
+  },
+  "equal_weight_collision_conservation": {
+    "energy_relative": 2.220446049250313e-16,
+    "momentum_relative": 3.9218050778532e-17
+  },
+  "cold_target_rate_and_gradient": {
+    "mean": 4.894145628251115,
+    "analytic_mean": 4.8940854017959206,
+    "mean_standard_error": 0.0001009419262260174,
+    "AD_mean": -0.004829025069210161,
+    "analytic_derivative": -0.004889191318025486,
+    "AD_standard_error": 0.00010084101794708301,
+    "finite_difference": -0.004829025068708859,
+    "AD_FD_relative": 1.0381029369455064e-10
+  },
+  "scope": "Component/integration microbenchmarks passed; no converged long-time dilute-tail or RF model.",
+  "elapsed_seconds": 44.656180341000436
+}

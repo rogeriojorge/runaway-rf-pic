@@ -1,0 +1,65 @@
+{
+ "stages": [
+  "margin"
+ ],
+ "quick": false,
+ "jax": "0.6.2",
+ "gamma_threshold": 20.569511835738734,
+ "margin_after_hold": {
+  "single_scan": [
+   {
+    "seconds_after_hold": 0.0,
+    "fraction_above": 0.0029296875,
+    "mean_gamma": 17.77497328380234
+   },
+   {
+    "seconds_after_hold": 0.5,
+    "fraction_above": 0.477294921875,
+    "mean_gamma": 20.691089214727825
+   },
+   {
+    "seconds_after_hold": 1.0,
+    "fraction_above": 1.0,
+    "mean_gamma": 23.50361504986555
+   },
+   {
+    "seconds_after_hold": 2.0,
+    "fraction_above": 1.0,
+    "mean_gamma": 28.81991384039911
+   },
+   {
+    "seconds_after_hold": 4.0,
+    "fraction_above": 1.0,
+    "mean_gamma": 38.31222851424053
+   }
+  ],
+  "random_search": [
+   {
+    "seconds_after_hold": 0.0,
+    "fraction_above": 0.001953125,
+    "mean_gamma": 17.457897465008905
+   },
+   {
+    "seconds_after_hold": 0.5,
+    "fraction_above": 0.3359375,
+    "mean_gamma": 20.397171155716862
+   },
+   {
+    "seconds_after_hold": 1.0,
+    "fraction_above": 1.0,
+    "mean_gamma": 23.229662514111794
+   },
+   {
+    "seconds_after_hold": 2.0,
+    "fraction_above": 1.0,
+    "mean_gamma": 28.57862920068701
+   },
+   {
+    "seconds_after_hold": 4.0,
+    "fraction_above": 1.0,
+    "mean_gamma": 38.11732631379709
+   }
+  ]
+ },
+ "elapsed_s": 165.2995542930439
+}

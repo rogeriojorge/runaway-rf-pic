@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "runaway-rf-pic"
+version = "0.1.0"
+description = "Runaway-electron RF control studies built on JAX-in-Cell"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Rogerio Jorge" }]
+requires-python = ">=3.10"
+dependencies = [
+    "jaxincell @ git+https://github.com/uwplasma/JAX-in-Cell@abc8d0161f7cffc5a59949d6e13d9d7f697dc648",
+    "scipy",
+    "matplotlib",
+]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.setuptools]
+packages = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

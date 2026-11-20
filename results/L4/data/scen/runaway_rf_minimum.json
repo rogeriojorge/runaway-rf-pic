@@ -1,0 +1,98 @@
+{
+ "stages": [
+  "source"
+ ],
+ "quick": false,
+ "jax": "0.12.0.1",
+ "gamma_threshold": 20.569511835738734,
+ "source": {
+  "nu_e_per_s": 43594.75372081592,
+  "T_on_s": 0.3,
+  "convention": "total wave field prescribed; J_drive = curl B/mu0 - eps0 dE/dt - J_plasma; P_src = -J_drive.E averaged over a wavelength; ideal nonrecovering port Q+ = int max(P,0) dt (piecewise-linear zero crossing), returned energy Q- dumped.",
+  "checks": [
+   {
+    "omega": 3000000000.0,
+    "n4000": {
+     "supplied": 541760.2184503193,
+     "returned": 508792.74255666166,
+     "net": 32967.47589366249,
+     "dissipated": 32967.47224991286,
+     "closure_ramp_up_residual_over_stored": 2.4196024500329943e-06,
+     "steady_power": 206015171.3792498,
+     "ramp_time": 2e-05,
+     "settle": 0.00013763123972266138,
+     "stored_field_plus_kinetic": 510411.60537116835
+    },
+    "n8000": {
+     "supplied": 541760.8581083814,
+     "returned": 508793.3840626752,
+     "net": 32967.47404571264,
+     "dissipated": 32967.472219505005,
+     "closure_ramp_up_residual_over_stored": 1.2543291198970427e-07,
+     "steady_power": 215689210.04822496,
+     "ramp_time": 2e-05,
+     "settle": 0.00013763123972266138,
+     "stored_field_plus_kinetic": 510411.6119270124
+    },
+    "supplied_change_on_refinement": 1.1807018771532697e-06
+   },
+   {
+    "omega": 9000000000.0,
+    "n4000": {
+     "supplied": 668261.950015703,
+     "returned": 598741.6709713964,
+     "net": 69520.27904430647,
+     "dissipated": 69520.26708256098,
+     "closure_ramp_up_residual_over_stored": 9.687336493381782e-08,
+     "steady_power": 456551803.1580871,
+     "ramp_time": 2e-05,
+     "settle": 0.00013763123972266138,
+     "stored_field_plus_kinetic": 602151.3619046215
+    },
+    "n8000": {
+     "supplied": 668262.3777590275,
+     "returned": 598742.1084780754,
+     "net": 69520.26928095202,
+     "dissipated": 69520.26708041696,
+     "closure_ramp_up_residual_over_stored": 5.869765569185858e-08,
+     "steady_power": 456593186.5612373,
+     "ramp_time": 2e-05,
+     "settle": 0.00013763123972266138,
+     "stored_field_plus_kinetic": 602151.3618950264
+    },
+    "supplied_change_on_refinement": 6.400829057273715e-07
+   },
+   {
+    "omega": 20000000000.0,
+    "n4000": {
+     "supplied": 773213.6101130268,
+     "returned": 670518.0380469725,
+     "net": 102695.57206605694,
+     "dissipated": 102695.5604798496,
+     "closure_ramp_up_residual_over_stored": -8.426059624405691e-07,
+     "steady_power": 671206644.2236683,
+     "ramp_time": 2e-05,
+     "settle": 0.00013763123972266138,
+     "stored_field_plus_kinetic": 675551.5493275407
+    },
+    "n8000": {
+     "supplied": 773214.2765902978,
+     "returned": 670518.7089004369,
+     "net": 102695.56768986318,
+     "dissipated": 102695.56049307509,
+     "closure_ramp_up_residual_over_stored": 1.2982978101321254e-07,
+     "steady_power": 672800904.8334947,
+     "ramp_time": 2e-05,
+     "settle": 0.00013763123972266138,
+     "stored_field_plus_kinetic": 675551.5494768778
+    },
+    "supplied_change_on_refinement": 8.61956757893114e-07
+   }
+  ],
+  "steady_power_vs_closed_form": {
+   "ledger": 451269067.5546488,
+   "closed_form": 464977142.34768623
+  }
+ },
+ "elapsed_s": 0.5663955421186984
+}

@@ -1,0 +1,16 @@
+{
+  "status": "complete",
+  "started_utc": "2026-11-05T04:11:39.125415+00:00",
+  "source_sha256": "dae411be867fb834f12fe7ab4c2ced0486f11eeb6dcab842b6eb89ae5555c2af",
+  "guard_cgroup_GiB": 7.4,
+  "guard_RSS_GiB": 1.3,
+  "cpu": 8,
+  "pid": 6,
+  "exit_code": 0,
+  "stop_reason": null,
+  "elapsed_seconds": 45.63204678699549,
+  "peak_cgroup_GiB": 6.74786376953125,
+  "peak_RSS_GiB": null,
+  "finished_utc": "2026-11-05T04:12:24.757586+00:00",
+  "RSS_note": "Unavailable: Popen PID namespace differs from mounted /proc; cgroup guard valid, child RSS field was not valid."
+}

@@ -1,0 +1,59 @@
+{
+  "source_sha256": "dae411be867fb834f12fe7ab4c2ced0486f11eeb6dcab842b6eb89ae5555c2af",
+  "n_bulk": 512,
+  "n_seed": 64,
+  "n_ions": 512,
+  "steps": 256,
+  "duration_s": 0.0001,
+  "dt_s": 3.90625e-07,
+  "initial_energy_J_m3": [
+    24.0155484017641,
+    31.929712529613177,
+    24.009918001207772
+  ],
+  "final_energy_J_m3": [
+    24.07644581185505,
+    31.928913645543908,
+    23.969695538869537
+  ],
+  "work_rows_DC_RR_magnetic_radiation_collision_omitted_electric_J_m3": [
+    [
+      0.02238972455729015,
+      0.0002388859120300986,
+      6.088759433140737e-06
+    ],
+    [
+      -0.0024281534572497114,
+      -0.0010115392372169575,
+      -5.191845723839559e-14
+    ],
+    [
+      0.002428153457249797,
+      0.0010115392372169575,
+      5.191845723839559e-14
+    ],
+    [
+      0.04093583899091364,
+      -2.6230744059805286e-05,
+      -0.04022855109766627
+    ],
+    [
+      4.416247168617999e-22,
+      7.475767707333812e-26,
+      3.2767646593182983e-29
+    ]
+  ],
+  "raw_collision_defect_J_m3": 0.0006810571491875639,
+  "physical_balance_residual_J_m3": 0.0006810571492094977,
+  "bookkeeping_residual_J_m3": 2.193384363025075e-14,
+  "collision_defect_over_initial_seed_energy": 2.132988665513096e-05,
+  "collision_momentum_kg_m2_s": [
+    9.891679497421746e-10,
+    -4.457966530492117e-10,
+    -1.5452981315337854e-09
+  ],
+  "final_electron_density_above_10MeV_m3": 10000000000000.0,
+  "weight_ratio_bulk_seed": 12499.875,
+  "expected_heavy_electron_acceptances": 1.3107331073310733,
+  "scope": "single default realization; no particle/seed/time refinement or held-out kinetic benchmark"
+}
